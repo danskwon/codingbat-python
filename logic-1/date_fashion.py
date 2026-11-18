@@ -1,4 +1,4 @@
-# Logic-1: date_fashion
+# Logic-1: Exercise 2: date_fashion
 
 def date_fashion(you, date):
   if you <= 2 or date <= 2:
