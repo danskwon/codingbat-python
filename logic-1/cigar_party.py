@@ -1,4 +1,4 @@
-# Logic-1: cigar_party
+# Logic-1: Exercise 1 : cigar_party
 
 def cigar_party(cigars, is_weekend):
     if is_weekend:
