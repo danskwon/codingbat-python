@@ -14,3 +14,4 @@ if __name__ == "__main__":
     print(caught_speeding(60, False))  # expect 0
     print(caught_speeding(65, False))  # expect 1
     print(caught_speeding(65, True))   # expect 0
+    print(caught_speeding(61, False))  # expect 1
