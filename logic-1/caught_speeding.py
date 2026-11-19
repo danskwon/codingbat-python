@@ -1,4 +1,4 @@
-# Logic-1: caught_speeding
+# Logic-1: Exercise 4: caught_speeding
 
 def caught_speeding(speed, is_birthday):
     if is_birthday:
