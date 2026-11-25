@@ -1,7 +1,7 @@
 # Warmup-2: Exercise 1: make_abba
 # Problem Description: Given two strings, a and b, return the result of putting them together in the order abba, e.g. "Hi" and "Bye" returns "HiByeByeHi".
-# Solved?
-# Mistakes:
+# Solved? Yes
+# Mistakes: none
 # Improvements:
 
 def make_abba(a, b):
