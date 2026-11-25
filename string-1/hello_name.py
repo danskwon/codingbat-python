@@ -5,6 +5,7 @@
 # Improvements:
 
 def hello_name(name):
+    #return 'Hello ' + name + '!' # if older version of python is used. codingbat runs an older version of Python that doesn't support f-strings
     return f'Hello {name}!'
 
 
